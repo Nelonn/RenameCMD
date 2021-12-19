@@ -1,0 +1,11 @@
+name: RenameCMD
+main: me.nelonn.renamecmd.RenameCMD
+author: Nelonn
+version: 1.0
+api-version: 1.17
+description: This plugin changes custom model data while player renaming item in anvil
+
+commands:
+  renamecmd:
+    permission: renamecmd.reload
+    description: Reload all items and config
